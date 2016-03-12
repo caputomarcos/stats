@@ -7,7 +7,7 @@ Most of the problems come from _Applied Linear Statistical Models, Fifth Edition
 
 ## Topics covered 
 
-- Linear regression with one prdictor variable
+- Linear regression with one predictor variable
 - Regression and correlation analysis
 - Multiple regression
 - Quantitative and qualitative predictors
